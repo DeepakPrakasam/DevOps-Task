@@ -22,3 +22,7 @@ This repository contains my DevOps learning journey, covering essential tools an
 - Learned Kubernetes architecture
 - Deployed applications using Kubernetes
 - Worked with Kubernetes Services and Namespaces
+
+## 🛠️ Day 5: Minikube, Kubernetes & Terraform
+- Practiced Minikube and Kubernetes deployment
+- Worked with Terraform for infrastructure automation  
