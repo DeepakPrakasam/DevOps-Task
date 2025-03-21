@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: ashilin20/app:latest
+        image: deepakp2003/app:latest
         ports:
               - containerPort: 7070

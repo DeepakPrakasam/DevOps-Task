@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: ashilin20/app:latest
+        image: deepakp/app:latest
         ports:
           - containerPort: 8081

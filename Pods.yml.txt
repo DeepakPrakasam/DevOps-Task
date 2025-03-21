@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: nginx-container
-      image: ashilin20/app:latest
+      image: deepakp2003/app:latest
       ports:
         - containerPort: 80
