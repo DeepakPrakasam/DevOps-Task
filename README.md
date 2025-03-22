@@ -8,6 +8,5 @@ This branch (`day2`) covers the setup and configuration of essential tools used 
 ## Table of Contents
 - [Installed Maven](#installed-maven)
 - [Installed Jenkins](#installed-jenkins)
-- [Jenkins Master-Slave Configuration](#jenkins-master-slave-configuration)
 - [Created Free Style and Pipeline Jobs in Jenkins](#created-free-style-and-pipeline-jobs-in-jenkins)
 - [Worked with Docker Compose](#worked-with-docker-compose)
